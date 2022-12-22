@@ -6,4 +6,5 @@ Anggota kelompok 02:
 4. Pascal
 
 Topik: Download
-Sistem: 
+Sistem: Paralel
+
